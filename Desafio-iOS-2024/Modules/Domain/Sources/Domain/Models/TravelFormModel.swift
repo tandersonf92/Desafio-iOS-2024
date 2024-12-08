@@ -1,4 +1,4 @@
-public struct TravelFormModel {
+public struct TravelFormModel: Model {
     public let origin: String?
     public let destination: String?
     public let customer_id: String?
