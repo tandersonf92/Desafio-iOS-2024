@@ -34,6 +34,7 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
+				Modules/Domain,
 			);
 			target = A00E3DF72D04ED5C007226D2 /* Desafio-iOS-2024 */;
 		};
